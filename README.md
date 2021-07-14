@@ -1,0 +1,1 @@
+This is a pure bug reproducer for objectlib handling with cmake xcode generator where different-source files does share the name. The bug can be reproduced by runing compile.sh on a macos with installed xcode.
